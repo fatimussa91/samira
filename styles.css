@@ -37,7 +37,7 @@ header .image {
 }
 
 header .image img {
-    max-width: 265px;
+    max-width: 150px;
 }
 
 header h1 {
@@ -183,7 +183,8 @@ button {
 
 .date
 {
-color: gray;
+color: black;
+font-weight: bold;
 font-size: 14px;
 }
 
